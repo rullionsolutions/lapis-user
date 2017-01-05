@@ -1,0 +1,20 @@
+{
+  "name": "lapis-user",
+  "version": "0.0.0",
+  "description": "User, Role and Session Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rullionsolutions/lapis-user"
+  },
+  "author": "stephen.d.francis@gmail.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "underscore": ">= 1.0.0",
+    "lapis-core": ">= 0.0.0",
+    "lapis-data": ">= 0.0.0"
+  }
+}
